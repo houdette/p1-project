@@ -43,14 +43,17 @@
 		
 		<img src="images/houda.jpeg"> 
 		
-		<h3>First Project</h3>
-		View: Github: <a href="www.github.com">[link]</a> Github: <a href="www.github.com">[link]</a>
+	
+	
 		
 		<h3>Second Project</h3>
-		View: Github: <a href="www.github.com">[link]</a> Github: <a href="www.github.com">[link]</a>
+		View: Link: <a href="http://p2.doudette.practice-dwa15.me/html">[link]</a> Github: <a href="https://github.com/houdette/p2-project">[link]</a>
 		
 		<h3>Third Project</h3>
-		View: Github: <a href="www.github.com">[link]</a> Github: <a href="www.github.com">[link]</a>
+		View: Link: <a href="http://p3.doudette.practice-dwa15.me/html">[link]</a> Github: <a href="https://github.com/houdette/p3-project">[link]</a>
+		
+		<h3>Fourth Project</h3>
+		View: Link: <a href="http://p4.doudette.practice-dwa15.me/html">[link]</a> Github: <a href="https://github.com/houdette/p4-project">[link]</a>
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p>I am originally from Morocco. I came to the U.S. seven years ago to pursue new career paths. I currently work for an international organization of Finance.  </p>
